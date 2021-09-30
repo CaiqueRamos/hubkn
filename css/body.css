@@ -2059,6 +2059,9 @@ footer a:hover {
     .destaque--empresa {
         display: none;
     }
+    .button--home {
+        margin-top: 10px;
+    }
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
